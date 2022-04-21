@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### Check out my personal portfolio website at http://nguyenho51.github.io
 
 - 🌱 I’m currently learning JAVA Data Strutures and Algorithms taught by professors at Georgia Institute of Technology
 - 👯 I’m looking to collaborate on projects related to the subject of web/app back-end development OR data science and analytics
