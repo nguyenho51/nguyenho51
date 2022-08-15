@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on projects related to the subject of web/app back-end development OR data science and analytics
 - 🤔 I’m looking for help with finding a job in the tech industry as I am transitioning into the field from working in pharma/biotech
 - 💬 Ask me about my knowledges and capabilities, I'd love to share with you :D
-- 📫 Reach me @: ngho@eng.ucsd.edu
+- 📫 Reach me @: ngho@utexas.edu
 - ⚡ Fun fact: I speak two languages
